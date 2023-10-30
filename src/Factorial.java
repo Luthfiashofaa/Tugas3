@@ -26,5 +26,8 @@ public class Factorial{
 
         System.out.println("Hasil faktorial: "+faktorial);
 
+        System.out.println("....");
+
     }
+
 }
